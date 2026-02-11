@@ -1,7 +1,7 @@
 
 ---
 
-### **2. java-tax-calculation-system/README.md**
+### **java-tax-calculation-system/README.md**
 ```markdown
 # Tax Calculation System
 
